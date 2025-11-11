@@ -27,7 +27,7 @@
 9.  Click **Assign** to complete the process.&#x20;
 
     <figure><img src="../../.gitbook/assets/15.4.png" alt=""><figcaption></figcaption></figure>
-10. The admin role is now assigned.\
+10. The admin role is now assigned.
 
 
     <figure><img src="../../.gitbook/assets/13.25.png" alt=""><figcaption></figcaption></figure>
