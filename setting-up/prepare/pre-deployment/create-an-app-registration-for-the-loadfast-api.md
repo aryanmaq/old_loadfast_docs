@@ -46,7 +46,7 @@ To create an app registration, you must have one of the following Microsoft Entr
 
 ## Add Microsoft Graph API permissions
 
-1.  Select **API permissions** from the left pane of the app registrations overview page.\
+1.  Select **API permissions** from the left pane of the app registrations overview page.
 
 
     <figure><img src="../../../.gitbook/assets/5.5.png" alt=""><figcaption></figcaption></figure>
@@ -54,7 +54,7 @@ To create an app registration, you must have one of the following Microsoft Entr
 3.  A menu titled **Request API permissions** will appear on the right side.&#x20;
 
     <figure><img src="../../../.gitbook/assets/5.6 (2) (1).png" alt=""><figcaption></figcaption></figure>
-4.  Click on **Microsoft Graph**.\
+4.  Click on **Microsoft Graph**.
 
 
     <figure><img src="../../../.gitbook/assets/5.7.png" alt=""><figcaption></figcaption></figure>
@@ -138,11 +138,11 @@ If the secret is lost another one will have to be created.
 1.  Select **App roles** from the left pane of the app registrations overview page.&#x20;
 
     <figure><img src="../../../.gitbook/assets/8.1.png" alt=""><figcaption></figcaption></figure>
-2.  Click on **Create app role**.\
+2.  Click on **Create app role**.
 
 
     <figure><img src="../../../.gitbook/assets/8.2.png" alt=""><figcaption></figcaption></figure>
-3.  Populate the fields and options as shown below and click on **Apply**.\
+3.  Populate the fields and options as shown below and click on **Apply**.
 
 
     <figure><img src="../../../.gitbook/assets/image030.jpg" alt=""><figcaption></figcaption></figure>

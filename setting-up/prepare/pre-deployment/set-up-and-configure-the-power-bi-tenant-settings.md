@@ -22,15 +22,15 @@ To create an app registration, you must have one of the following Microsoft Entr
 **Note:** You can skip this step if you already have a security group.
 {% endhint %}
 
-1.  Type "**Microsoft Entra ID**" in the [Azure portal](https://portal.azure.com) search bar and select said option as it appears.\
+1.  Type "**Microsoft Entra ID**" in the [Azure portal](https://portal.azure.com) search bar and select said option as it appears.
 
 
     <figure><img src="../../../.gitbook/assets/16.2.png" alt=""><figcaption></figcaption></figure>
-2.  Select **Groups** (under Manage) from the left pane.\
+2.  Select **Groups** (under Manage) from the left pane.
 
 
     <figure><img src="../../../.gitbook/assets/16.5.png" alt=""><figcaption></figcaption></figure>
-3.  Click on **New group** to create a new security group.\
+3.  Click on **New group** to create a new security group.
 
 
     <figure><img src="../../../.gitbook/assets/16.6.png" alt=""><figcaption></figcaption></figure>
@@ -43,7 +43,7 @@ To create an app registration, you must have one of the following Microsoft Entr
     * Group name: Create a name for the group. In our example, we named the group PowerBIPLA, hence it will be referred to as such in this documentation's images, etc. Feel free to create your own group name.
     * Group description: Optional.
     * Membership type: Pre-selected, it should be "**Assigned**".
-5. Click **Create** to create the security group.\
+5. Click **Create** to create the security group.
 
 
 ## Add the LoadFAST API App registration to the security group

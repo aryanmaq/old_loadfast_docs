@@ -103,7 +103,7 @@ Follow the steps below to find your subscription ID:
 
 ### **Enter your resource group name**
 
-1.  Type “Resource groups" in the Azure portal search bar and select said option as it appears.\
+1.  Type “Resource groups" in the Azure portal search bar and select said option as it appears.
 
 
     <figure><img src="../../.gitbook/assets/14.2 (1).png" alt=""><figcaption></figcaption></figure>
