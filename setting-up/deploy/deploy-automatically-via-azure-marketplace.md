@@ -55,9 +55,10 @@ If 100 was selected as the maximum concurrent load count value but...
 * I need 150 --> The tool will have to be re-deployed.
 {% endhint %}
 
-* Managed Application Details
-      - Application Name: Create and enter a name. This will be the name of the **managed application** where the Azure resources for the tool will reside.
-      - Managed Resource Group: This field will be prepopulated when the form is opened. By default, the managed resource group name will be in this format: "mrg-powerbiloadanalyzer-**\<CurrentYearMonthDayHourMinuteSeconds>**", but you can change it to any name you want.
+* **Managed Application Details**
+  - **Application Name:** Create and enter a name. This will be the name of the **managed application** where the Azure resources for the tool will reside.
+  - **Managed Resource Group:** This field will be prepopulated when the form is opened. By default, the managed resource group name will be in this format: `mrg-powerbiloadanalyzer-<CurrentYearMonthDayHourMinuteSeconds>`, but you can change it to any name you want.
+
 5. Click on **Next** to validate your inputs.
 6.  Review and edit the details shown on the **Review + create** page as needed.&#x20;
 
