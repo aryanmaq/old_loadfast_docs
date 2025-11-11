@@ -22,9 +22,9 @@
     5. The script will begin execution and prompt you for input. Provide the required information as requested.
 
         <figure><img src="../../.gitbook/assets/13.12 (1).png" alt=""><figcaption></figcaption></figure>
- {% hint style="warning" %}
-        The Windows PowerShell ISE must be opened in the same location as the downloaded PowerShell zip.
- {% endhint %}   
+{% hint style="warning" %}
+The Windows PowerShell ISE must be opened in the same location as the downloaded PowerShell zip.
+{% endhint %}   
 
 **For running script in Azure cloud shell**
 1. Open [Azure portal](https://portal.azure.com) and launch **Azure cloud shell**.

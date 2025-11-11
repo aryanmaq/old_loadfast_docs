@@ -78,6 +78,7 @@ The Windows PowerShell ISE must be opened in the same location as the downloaded
 If you see an error message after entering inputs
 
 <figure><img src="../.gitbook/assets/az-error.png" alt=""><figcaption></figcaption></figure>
+
 Click on **New session** and re-run the script.
 
 <figure><img src="../.gitbook/assets/new-session.png" alt=""><figcaption></figcaption></figure>
@@ -87,6 +88,7 @@ Click on **New session** and re-run the script.
 8.  Paste the code into the login screen and sign in with your account.
 
 <figure><img src="../.gitbook/assets/enter-code.png" alt=""><figcaption></figcaption></figure>
+
  9.  After logging in, enter your **client secret** when prompted. The script will now run successfully.
 
 <figure><img src="../.gitbook/assets/client-secret.png" alt=""><figcaption></figcaption></figure>

@@ -101,7 +101,7 @@ Granting the app registration (also known as the service principal) member-level
 
 
 {% hint style="info" %}
-    **Note**: The Power BI service must be in the same tenant where you will deploy the LoadFAST tool.
+**Note**: The Power BI service must be in the same tenant where you will deploy the LoadFAST tool.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/10.1 (1).png" alt=""><figcaption></figcaption></figure>
