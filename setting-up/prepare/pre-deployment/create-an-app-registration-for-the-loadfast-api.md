@@ -37,7 +37,7 @@ To create an app registration, you must have one of the following Microsoft Entr
 
 
 {% hint style="info" %}
-    **Note:** Note down the display name, application (client) ID, and directory (tenant) ID. These details will be required as part of the set up process.
+**Note:** Note down the display name, application (client) ID, and directory (tenant) ID. These details will be required as part of the set up process.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/5.12.png" alt=""><figcaption></figcaption></figure>
@@ -142,7 +142,7 @@ If the secret is lost another one will have to be created.
 
 
     <figure><img src="../../../.gitbook/assets/8.2.png" alt=""><figcaption></figcaption></figure>
-3.  Populate the fields and options as shown below and click on **Apply**. \
+3.  Populate the fields and options as shown below and click on **Apply**.\
 
 
     <figure><img src="../../../.gitbook/assets/image030.jpg" alt=""><figcaption></figcaption></figure>
